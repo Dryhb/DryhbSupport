@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: DryhbSupport
-Version: 0.0.1
+Version: 0.0.2
 Summary: Just stuff I recode all the time
 Home-page: https://github.com/Dryhb/DryhbSupport
 Author: Dryhb
@@ -12,13 +12,18 @@ Classifier: Intended Audience :: Education
 Classifier: Operating System :: Microsoft :: Windows :: Windows 10
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
 License-File: LICENCE.txt
 
 Library to help to not recode everything all the time
 
-ChangeLog
+ChangeLog 2 
 ==========
 
-0.0.1 (15/11/2022)
+0.0.1 (11/12/2022)
 ------------------
 - Basic help like factorial ,combination ,permutation ,@timethat ,print_tb, print_nb
+
+0.0.2 (11/12/2022)
+------------------
+- Trying to fix to include CHANGELOG
