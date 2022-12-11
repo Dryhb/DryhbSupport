@@ -1,0 +1,6 @@
+ChangeLog
+==========
+
+0.0.1 (15/11/2022)
+------------------
+- Basic help like @timethat and factorial, combination
