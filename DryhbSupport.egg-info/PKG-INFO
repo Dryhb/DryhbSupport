@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: DryhbSupport
+Version: 0.0.1
+Summary: Just stuff I recode all the time
+Home-page: https://github.com/Dryhb/DryhbSupport
+Author: Dryhb
+Author-email: dryhb.pseudotooshort@gmail.com
+License: MIT
+Keywords: timethat factorial combination
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+Library to help to not recode everything all the time
+
+ChangeLog
+==========
+
+0.0.1 (15/11/2022)
+------------------
+- Basic help like factorial ,combination ,permutation ,@timethat ,print_tb, print_nb

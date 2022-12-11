@@ -4,6 +4,13 @@ __doc__ = SUMMARY
 from math import factorial as _factorial, gamma as _gamma
 import time
 
+alls = ["factorial",
+        "combination",
+        "permutation",
+        "timethat", #decorator
+        "print_tb",
+        "print_nb"]
+
 def factorial(n):
     """Returns the factorial of n for all 'n' a real numbers.
     If complex numbers are used, the gamma function from spicy.special is used."""

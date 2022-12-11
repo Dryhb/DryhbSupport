@@ -3,4 +3,4 @@ ChangeLog
 
 0.0.1 (15/11/2022)
 ------------------
-- Basic help like @timethat and factorial, combination
+- Basic help like factorial ,combination ,permutation ,@timethat ,print_tb, print_nb

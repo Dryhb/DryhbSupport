@@ -7,16 +7,17 @@ classifiers = [
   'License :: OSI Approved :: MIT License',
   'Programming Language :: Python :: 3'
 ]
-
+# GitHub\DryhbSupport\
+# GitHub\DryhbSupport\
 setup(
   name='DryhbSupport',
-  version='0.0.6',
+  version='0.0.1',
   description='Just stuff I recode all the time',
-  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
-  url='https://github.com/Dryhb/SuperSubCap_library',  
+  long_description=open("README.txt").read()+'\n\n'+open('CHANGELOG.txt').read(),
+  url='https://github.com/Dryhb/DryhbSupport',
   author='Dryhb',
   author_email='dryhb.pseudotooshort@gmail.com',
-  license='MIT', 
+  license='MIT',
   classifiers=classifiers,
   keywords='timethat factorial combination', 
   packages=find_packages(),
